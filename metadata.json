@@ -1,0 +1,6 @@
+{
+  "name": "Habit Tracker & Streak Dashboard",
+  "description": "Track daily habits, visualize consistency with heatmaps, complete pomodoro sessions, and grow your streaks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
